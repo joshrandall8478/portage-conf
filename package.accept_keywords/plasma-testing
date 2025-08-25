@@ -1,0 +1,5 @@
+kde-*/* ~amd64
+media-gfx/kio-ps-thumbnailer ~amd64
+x11-misc/sddm ~amd64
+app-office/merkuro ~amd64
+dev-libs/ktextaddons ~amd64

@@ -1,0 +1,19 @@
+# required by media-fonts/kochi-substitute (argument)                                                                                                                                                         
+>=media-fonts/kochi-substitute-20030809-r3 free-noncomm                                                                                                                                                       
+# required by chromium (argument)                                                                                                                                                                             
+>=www-client/chromium-139.0.7258.5 unRAR                                                                                                                                                                      
+# required by app-editors/vscode (argument)                                                                                                                                                                   
+>=app-editors/vscode-1.102.1 Microsoft-vscode                                                                                                                                                                 
+# required by chromium (argument)                                                                                                                                                                             
+=www-client/chromium-138.0.7204.157 unRAR
+# required by discord (argument)
+>=net-im/discord-0.0.102 all-rights-reserved
+# required by nvidia-cuda-toolkit (argument)
+>=dev-util/nvidia-cuda-toolkit-12.9.1 NVIDIA-CUDA
+# required by games-arcade/osu-lazer (argument)
+>=games-arcade/osu-lazer-2025.710.0 all-rights-reserved
+# required by media-libs/libquicktime-1.2.4-r7::gentoo[encode,aac]
+# required by libquicktime (argument)
+=media-libs/faac-1.30 MPEG-4
+# required by games-engines/gamemaker-beta (argument)
+>=games-engines/gamemaker-beta-2024.1400.0.865 all-rights-reserved

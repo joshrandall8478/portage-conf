@@ -1,0 +1,15 @@
+dev-python/pillow -truetype
+# required by www-client/firefox-140.0.1::gentoo[system-libvpx]
+# required by @selected
+# required by @world (argument)
+>=media-libs/libvpx-1.15.2 postproc
+# required by gnome-base/gnome-keyring-46.2::gentoo
+# required by virtual/secret-service-0::gentoo
+# required by app-crypt/libsecret-0.21.7::gentoo
+# required by kde-frameworks/kwallet-runtime-6.15.0::gentoo
+# required by kde-frameworks/kwallet-6.15.0::gentoo[-minimal]
+# required by kde-plasma/ksshaskpass-6.4.2::gentoo
+# required by kde-plasma/plasma-meta-6.4.2::gentoo
+# required by @selected
+# required by @world (argument)
+>=app-crypt/gcr-3.41.2-r1:0 gtk

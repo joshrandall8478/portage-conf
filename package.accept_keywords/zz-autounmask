@@ -1,0 +1,89 @@
+# package.accept_keywords# required by zoxide (argument)
+=app-shells/zoxide-0.9.8 ~amd64
+# required by x11-apps/ocs-url (argument)
+=x11-apps/ocs-url-9999 **
+# required by grub-customizer (argument)
+=app-admin/grub-customizer-5.2.5 ~amd64
+# required by halloy (argument)
+=net-irc/halloy-2025.6 ~amd64
+# required by app-misc/piper (argument)
+=app-misc/piper-0.8 ~amd64
+# required by app-misc/piper-0.8::gentoo
+# required by app-misc/piper (argument)
+=dev-libs/libratbag-0.18 ~amd64
+# required by games-util/gamemode (argument)
+=games-util/gamemode-1.8.2 ~amd64
+# required by games-util/mangohud-0.8.1::guru
+# required by mangohud (argument)
+=media-libs/implot-0.16-r2 ~amd64
+# required by games-util/mangohud-0.8.1::guru
+# required by mangohud (argument)
+=media-libs/imgui-1.89.9-r4 ~amd64
+# required by mangohud (argument)
+=games-util/mangohud-0.8.1 ~amd64
+# required by zellij (argument)
+=app-misc/zellij-0.42.2 ~amd64
+# required by obs-studio (argument)
+=media-video/obs-studio-31.1.1 ~amd64
+# required by media-video/obs-studio-31.1.1::gentoo[websocket]
+# required by obs-studio (argument)
+=dev-libs/qr-code-generator-1.8.0-r1 ~amd64
+# required by nvidia-cuda-toolkit (argument)
+=dev-util/nvidia-cuda-toolkit-12.9.1 ~amd64
+# required by games-arcade/osu-lazer (argument)
+=games-arcade/osu-lazer-2025.710.0 ~amd64
+# required by games-util/lutris-0.5.19::gentoo[python_single_target_python3_13]
+# required by games-util/lutris (argument)
+=dev-python/moddb-0.12.0 ~amd64
+# required by games-util/lutris (argument)
+=games-util/lutris-0.5.19 ~amd64
+# required by games-util/lutris-0.5.19::gentoo[python_single_target_python3_13]
+# required by games-util/lutris (argument)
+=dev-python/pypresence-4.3.0 ~amd64
+# required by media-gfx/gimp-3.0.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+=media-libs/gegl-0.4.62 ~amd64
+# required by media-libs/gegl-0.4.62::gentoo
+# required by media-gfx/gimp-3.0.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+=media-libs/babl-0.1.114 ~amd64
+# required by gitlab-cli (argument)
+=dev-util/gitlab-cli-1.57.0 ~amd64
+# required by github-cli (argument)
+=dev-util/github-cli-2.72.0 ~amd64
+# required by gui-apps/hyprlock-0.8.2-r1::guru
+# required by hyprlock (argument)
+=dev-cpp/sdbus-c++-2.1.0 ~amd64
+# required by games-engines/gamemaker-beta (argument)
+=games-engines/gamemaker-beta-2024.1400.0.865 ~amd64
+# required by media-sound/jack (argument)
+=media-sound/jack-4.1_pre20241202 ~amd64
+# required by dev-embedded/qmk-1.1.8::vimproved
+# required by dev-embedded/qmk (argument)
+=dev-python/hid-1.0.8 ~amd64
+# required by dev-embedded/qmk-1.1.8::vimproved
+# required by dev-embedded/qmk (argument)
+=dev-python/hjson-3.1.0 ~amd64
+# required by dev-python/milc-1.9.1::vimproved
+# required by dev-embedded/qmk-1.1.8::vimproved
+# required by dev-embedded/qmk (argument)
+=dev-python/halo-0.0.31 ~amd64
+# required by dev-python/milc-1.9.1::vimproved
+# required by dev-embedded/qmk-1.1.8::vimproved
+# required by dev-embedded/qmk (argument)
+=dev-python/spinners-0.0.24 ~amd64
+# required by dev-embedded/qmk-1.1.8::vimproved
+# required by dev-embedded/qmk (argument)
+=dev-python/dotty-dict-1.3.1 ~amd64
+# required by dev-python/halo-0.0.31::vimproved
+# required by dev-python/milc-1.9.1::vimproved
+# required by dev-embedded/qmk-1.1.8::vimproved
+# required by dev-embedded/qmk (argument)
+=dev-python/log-symbols-0.0.14 ~amd64
+# required by dev-embedded/qmk-1.1.8::vimproved
+# required by dev-embedded/qmk (argument)
+=dev-python/milc-1.9.1 ~amd64
+# required by dev-embedded/qmk (argument)
+=dev-embedded/qmk-1.1.8 ~amd64
